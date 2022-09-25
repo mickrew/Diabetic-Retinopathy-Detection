@@ -43,3 +43,17 @@ Due to the large size of the dataset (~89GB) a preprocessing phase is required t
 manage the material through Google Colab. During this phase we decided to reduce the
 resolution of the images, as found in the literature, to 786x524 so as to reduce the size of the
 dataset by 99% bringing it up to ~1GB.
+
+The DR has two major types: the Non-Proliferative Diabetic Retinopathy (NPDR) and Proliferative
+Diabetic Retinopathy (PDR). The DR in the early stages is called NPDR which is further divided
+into Mild, Moderate, and Severe stages.
+
+- **Mild** stage has one micro-aneurysm, a small circular red dot at the end of blood vessels.
+- In the **Moderate** stage the micro-aneurysm rapture into deeper layers and form a flame-
+shaped haemorrhage in the retina.
+- The **Severe** stage contains more than 20 intraretinal haemorrhages in each of the four
+quadrants, having definite venous bleeding with prominent intraretinal microvascular
+abnormalities.
+- **PDR** is the advanced stage of DR which leads to neovascularization, a natural formation of
+new blood vessels in the form of functional microvascular networks that grow on the inside
+surface of the retina.
