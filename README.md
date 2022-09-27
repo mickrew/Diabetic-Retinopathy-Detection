@@ -61,3 +61,9 @@ abnormalities.
 - **PDR** is the advanced stage of DR which leads to neovascularization, a natural formation of
 new blood vessels in the form of functional microvascular networks that grow on the inside
 surface of the retina.
+
+## Authors
+* [Michelangelo Martorana](https://github.com/mickrew)
+* [Mirko Casini](https://github.com/mcasini)
+* [Andrea Lagna](https://github.com/andrealagna)
+
